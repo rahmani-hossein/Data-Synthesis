@@ -1,2 +1,3 @@
 # Data-Synthesis
+Developed and implemented the **SUGAR Manifold Sampling Algorithm** for data generation and created a comprehensive **multi-manifold clustering benchmark**. This benchmark incorporates advanced clustering techniques including *Hierarchical Clustering*, *Spectral Clustering*, *Gaussian Mixture Models (GMM)*, *Density-Based Clustering*, and *Multi-step Algorithms* combining dimensionality reduction with clustering. Conducted this project for the **OPTIMIZER competition** at the [**SOAL Laboratory**](http://soal.math.sharif.edu/) at the Sharif University of Technology, contributing to advancements in *Multi-Manifold Clustering* techniques.
 SUGAR implementation for Manifold learning 
